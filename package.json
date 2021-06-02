@@ -1,0 +1,14 @@
+{
+  "name": "vibe_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
